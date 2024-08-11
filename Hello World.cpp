@@ -1,7 +1,8 @@
 // HelloWorld.cpp
-//Otniel Jhirad
+//Dhanraj Chavan
+//24070123502
 //ENTC A3
-//23070123069
+
 #include <iostream>
 using namespace std;
 int main() {
